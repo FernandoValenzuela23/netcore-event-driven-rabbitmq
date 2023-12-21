@@ -1,0 +1,10 @@
+.vs/
+PostService/bin/
+PostService/obj/
+UserService/bin/
+UserService/obj/
+*.user
+artifacts/
+.vscode/
+.dotnet/
+*.binlog
